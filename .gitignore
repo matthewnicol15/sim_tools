@@ -1,0 +1,10 @@
+# File types to be ignored 
+*.root
+*.d
+*.so
+*.pcm
+**/build
+*.pdf
+*.png
+*fuse
+*.json
